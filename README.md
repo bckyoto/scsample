@@ -1,1 +1,1 @@
-# scsample
+# smart contract
