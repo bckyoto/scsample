@@ -1,4 +1,4 @@
-# scsample
+# smart contract
 
 ## Docker setup
 ```docker pull iostio/iost-node:2.5.0```
